@@ -1,0 +1,460 @@
+﻿product_id;brand_name;product_name;category;items_price
+1;Nabisco;100% Bran;food and beverages;11
+2;Quaker Oats;100% Natural Bran;food and beverages;11.5
+3;Kelloggs;All-Bran;food and beverages;11.5
+4;Kelloggs;All-Bran with Extra Fiber;food and beverages;15
+5;Ralston Purina;Almond Delight;food and beverages;10
+6;General Mills;Apple Cinnamon Cheerios;food and beverages;10
+7;Kelloggs;Apple Jacks;food and beverages;11.5
+8;General Mills;Basic 4;food and beverages;11.5
+9;Ralston Purina;Bran Chex;food and beverages;10
+10;Post;Bran Flakes;food and beverages;14.5
+11;Quaker Oats;Cap'n'Crunch;food and beverages;15
+12;General Mills;Cheerios;food and beverages;10
+13;General Mills;Cinnamon Toast Crunch;food and beverages;11
+14;General Mills;Clusters;food and beverages;11.5
+15;General Mills;Cocoa Puffs;food and beverages;12
+16;Ralston Purina;Corn Chex;food and beverages;10
+17;Kelloggs;Corn Flakes;food and beverages;12
+18;Kelloggs;Corn Pops;food and beverages;14.5
+19;General Mills;Count Chocula;food and beverages;11.5
+20;Kelloggs;Cracklin' Oat Bran;food and beverages;10
+21;Nabisco;Cream of Wheat (Quick);food and beverages;11.5
+22;Kelloggs;Crispix;food and beverages;14.5
+23;General Mills;Crispy Wheat & Raisins;food and beverages;14.5
+24;Ralston Purina;Double Chex;food and beverages;11
+25;Kelloggs;Froot Loops;food and beverages;12
+26;Kelloggs;Frosted Flakes;food and beverages;12
+27;Kelloggs;Frosted Mini-Wheats;food and beverages;10.5
+28;Kelloggs;Fruit & Fibre Dates;food and beverages;15
+29;Kelloggs;Fruitful Bran;food and beverages;10.5
+30;Post;Fruity Pebbles;food and beverages;12
+31;Post;Golden Crisp;food and beverages;11
+32;General Mills;Golden Grahams;food and beverages;11.5
+33;Post;Grape Nuts Flakes;food and beverages;10
+34;Post;Grape-Nuts;food and beverages;15
+35;Post;Great Grains Pecan;food and beverages;12
+36;Quaker Oats;Honey Graham Ohs;food and beverages;14.5
+37;General Mills;Honey Nut Cheerios;food and beverages;15
+38;Post;Honey-comb;food and beverages;14.5
+39;Kelloggs;Just Right Crunchy  Nuggets;food and beverages;15
+40;Kelloggs;Just Right Fruit & Nut;food and beverages;12
+41;General Mills;Kix;food and beverages;11
+42;Quaker Oats;Life;food and beverages;14.5
+43;General Mills;Lucky Charms;food and beverages;11.5
+44;American Home Food Products;Maypo;food and beverages;15
+45;Kelloggs;Muesli Raisins;food and beverages;15
+46;Kelloggs;Muesli Raisins;food and beverages;11
+47;Kelloggs;Mueslix Crispy Blend;food and beverages;10.5
+48;General Mills;Multi-Grain Cheerios;food and beverages;14.5
+49;Kelloggs;Nut&Honey Crunch;food and beverages;10.5
+50;Kelloggs;Nutri-Grain Almond-Raisin;food and beverages;15
+51;Kelloggs;Nutri-grain Wheat;food and beverages;11
+52;General Mills;Oatmeal Raisin Crisp;food and beverages;10.5
+53;Post;Post Nat. Raisin Bran;food and beverages;15
+54;Kelloggs;Product 19;food and beverages;15
+55;Quaker Oats;Puffed Rice;food and beverages;11
+56;Quaker Oats;Puffed Wheat;food and beverages;14.5
+57;Quaker Oats;Quaker Oat Squares;food and beverages;14.5
+58;Quaker Oats;Quaker Oatmeal;food and beverages;11.5
+59;Kelloggs;Raisin Bran;food and beverages;15
+60;General Mills;Raisin Nut Bran;food and beverages;14.5
+61;Kelloggs;Raisin Squares;food and beverages;11
+62;Ralston Purina;Rice Chex;food and beverages;11
+63;Kelloggs;Rice Krispies;food and beverages;14.5
+64;Nabisco;Shredded Wheat;food and beverages;10.5
+65;Nabisco;Shredded Wheat 'n'Bran;food and beverages;10
+66;Nabisco;Shredded Wheat spoon size;food and beverages;12
+67;Kelloggs;Smacks;food and beverages;11.5
+68;Kelloggs;Special K;food and beverages;10.5
+69;Nabisco;Strawberry Fruit Wheats;food and beverages;10
+70;General Mills;Total Corn Flakes;food and beverages;10
+71;General Mills;Total Raisin Bran;food and beverages;10.5
+72;General Mills;Total Whole Grain;food and beverages;12
+73;General Mills;Triples;food and beverages;11
+74;General Mills;Trix;food and beverages;11
+75;Ralston Purina;Wheat Chex;food and beverages;10.5
+76;General Mills;Wheaties;food and beverages;11
+77;General Mills;Wheaties Honey Gold;food and beverages;11
+78;Lactalis;6/5 LB Premium WMLM Mozzarella SHRED;dairy;7
+79;Lactalis;6/5 LB Premium LMPS Mozzarella SHRED;dairy;6.5
+80;Lactalis;8/5 LB Premium WMLM Mozzarella LOAF;dairy;7.5
+81;Lactalis;8/5 LB Premium LMPS Mozzarella LOAF;dairy;6.5
+82;Lactalis;6/5 LB Premium WMLM Mozzarella Medium Diced;dairy;9
+83;Lactalis;6/5 LB Premium WMLM Mozzarella Large Diced;dairy;6.5
+84;Lactalis;6/5 LB Premium WMLM/LMPS Mozzarella Shred 50/50;dairy;7
+85;Lactalis;6/5 LB PREMIUM WMLM MOZZARELLA / PROVOLONE / CHEDDAR MEDIUM DICED 80/10/10;dairy;7.5
+86;Lactalis;6/5 LB PREMIUM WMLM MOZZARELLA / PROVOLONE SHRED 50/50;dairy;8
+87;Lactalis;6/5 LB PREMIUM WMLM MOZZARELLA / PROVOLONE / CHEDDAR SHRED 80/10/10;dairy;6.5
+88;Lactalis;6/5 LB PREMIUM WMLM MOZZARELLA / PROVOLONE / CHEDDAR MEDIUM DICED 80/10/10;dairy;7.5
+89;Lactalis;6/5 LB PREMIUM WMLM MOZZARELLA / PROVOLONE SHRED 50/50;dairy;8
+90;Lactalis;6/5 LB PREMIUM WMLM MOZZARELLA / PROVOLONE / CHEDDAR SHRED 80/10/10;dairy;6.5
+91;Lactalis;6/1 LB FRESH MOZZARELLA LOG THERMOFORM WATER PACK;dairy;7
+92;Lactalis;6/1 LB FRESH MOZZARELLA LOG THERMOFORM;dairy;8
+93;Lactalis;6/1 LB FRESH MOZZARELLA SLICED LOG THERMOFORM;dairy;7
+94;Lactalis;2/3 LB FRESH MOZZARELLA 16 OZ LOGS (TUB);dairy;8
+95;Lactalis;2/3 LB FRESH MOZZARELLA 8 OZ BALLS (TUB);dairy;9
+96;Lactalis;2/3 LB FRESH MOZZARELLA 16 OZ BALLS (TUB);dairy;6.5
+97;Lactalis;12/8 OZ FRESH MOZZARELLA BALL;dairy;8.5
+98;Lactalis;8/12 OZ FRESH MOZZARELLA MEDALLIONS;dairy;8
+99;Lactalis;2/3 LB FRESH MOZZARELLA OVOLINE 4 OZ (TUB);dairy;9
+100;Lactalis;2/3 LB Fresh Mozzarella Marinated Ciliegine Ã¢â€¦â€œ OZ;dairy;7.5
+101;Lactalis;2/3 LB Fresh Mozzarella Ciliegine Ã¢â€¦â€œ OZ (Tub);dairy;8.5
+102;Lactalis;2/3 LB Fresh Mozzarella Perle 4G (Tub);dairy;7
+103;Lactalis;2/3 LB FRESH MOZZARELLA BOCCONCINI 2 OZ (TUB);dairy;7.5
+104;Lactalis;8/5 LB PROVOLONE RANDOM WEIGHT LOAF;dairy;7.5
+105;Lactalis;2/6 LB PROVOLONE RANDOM WEIGHT LOG;dairy;9
+106;Lactalis;6/6 LB PROVOLONE RANDOM WEIGHT LOG;dairy;7.5
+107;Lactalis;3/12 LB PROVOLONE RANDOM WEIGHT LOG;dairy;6.5
+108;Lactalis;6/5 LB PROVOLONE SHRED;dairy;8.5
+109;Lactalis;3/12 LB SMOKE FLAVORED PROVOLONE LOG;dairy;6.5
+110;Lactalis;6/5 LB Asiago Medium Shred;dairy;7
+111;Lactalis;2/5 LB Asiago Medium Shaved;dairy;9
+112;Lactalis;1/20 LB PARMESAN WHEEL;dairy;8
+113;Lactalis;4/5 LB PARMESAN SHAVED;dairy;7
+114;Lactalis;2/5 LB Parmesan Shaved;dairy;7
+115;Lactalis;4/5 LB Parmesan Shred;dairy;8.5
+116;Lactalis;6/5 LB Parmesan Shred;dairy;8
+117;Lactalis;4/5 LB Parmesan Grated;dairy;8.5
+118;Lactalis;4/5 LB Imported Pecorino Romano Grated;dairy;7
+119;Lactalis;4/5 LB Romano Blend Grated;dairy;7.5
+120;Lactalis;6/3 LB WHOLE MILK SELECT RICOTTA;dairy;7
+121;Lactalis;4/5 LB WHOLE MILK SELECT RICOTTA;dairy;9
+122;Lactalis;4/5 LB WHOLE MILK SUPREME RICOTTA IMPASTATA;dairy;7
+123;Lactalis;6/3 LB Classic Whey Ricotta made with Whole Milk;dairy;9
+124;Lactalis;4/5 LB Classic Whey Ricotta made with Whole Milk;dairy;7
+125;Lactalis;4/5 LB Classic Whey Ricotta made with Part Skim Milk;dairy;7.5
+126;Lactalis;6/48 OZ Original Ricotta made with Whole Milk;dairy;8
+127;Lactalis;6/32 OZ Ricotta made with Whole Milk;dairy;8
+128;Lactalis;6/48 OZ Ricotta made with Part Skim Milk;dairy;8
+129;Lactalis;4/5 LB MASCARPONE;dairy;7
+130;Lactalis;6/16 OZ MASCARPONE;dairy;6.5
+131;Lactalis;1/5 LB BEL PAESE TRADITIONAL BULK WHEEL;dairy;7.5
+132;Lactalis;1/6 LB BLUE CHEESE WHEEL FOIL;dairy;8.5
+133;Lactalis;4/5 LB BLUE CHEESE CRUMBLE ;dairy;6.5
+134;Lactalis;1/6 LB GORGONZOLA WHEEL FOIL;dairy;8
+135;Lactalis;4/5 LB GORGONZOLA CRUMBLE;dairy;9
+136;Lactalis;2/5 LB FETA CRUMBLE;dairy;6.5
+137;Lactalis;4/5 LB FETA TRADITIONAL STYLE CRUMBLE;dairy;9
+138;Lactalis;10/2.5 LB FETA CHUNK;dairy;7.5
+139;Lactalis;12/10.5 OZ PLAIN GOAT LOG ;dairy;7
+140;Lactalis;12/5.28 OZ DON BERNARDO MANCHEGO VIEJO WEDGE IMPORTED;dairy;8.5
+141;Prego;Prego Traditional Pasta Sauce 300g;seasoning and spices;5.5
+142;Prego;Prego Mushroom Pasta Sauce 300g;seasoning and spices;7.5
+143;Prego;Prego Tomato, Basil & Garlic Pasta Sauce 300g;seasoning and spices;5
+144;Prego;Prego Carbonara Mushroom Pasta Sauce 295g;seasoning and spices;5.5
+145;Prego;Prego Cheese & Herbs Pasta Sauce 290g;seasoning and spices;7
+146;Prego;Prego Chicken Mushroom Pasta Sauce 290g;seasoning and spices;7.5
+147;Prego;Prego Mac & Cheese 290g;seasoning and spices;7
+148;Prego;PregoÃ‚Â® Spicy Seafood Arrabbiata Sauce 295G;seasoning and spices;5
+149;Prego;Prego Traditional Pasta Sauce 350g;seasoning and spices;5
+150;Prego;Prego Mushroom Pasta Sauce 350g;seasoning and spices;5.5
+151;Prego;Prego Carbonara Mushroom Pasta Sauce 350g;seasoning and spices;5
+152;Prego;Prego Cheesy Alfredo Pasta Sauce 350g;seasoning and spices;6.5
+153;Prego;Prego Traditional Pasta Sauce 680g;seasoning and spices;7
+154;Prego;Prego Mushroom Pasta Sauce 680g;seasoning and spices;5
+155;Prego;Prego Tomato, Basil & Garlic Pasta Sauce 680g;seasoning and spices;5.5
+156;Prego;Prego Mushroom & Green Pepper Pasta Sauce 673g;seasoning and spices;7
+157;Prego;Prego Carbonara Mushroom Pasta Sauce 665g;seasoning and spices;5.5
+158;Prego;Prego Fettuccine 500g;food and beverages;17.5
+159;Prego;Prego Angel Hair 500g;food and beverages;15.5
+160;Prego;Prego Spiral 500g;food and beverages;15.5
+161;Prego;Prego Macaroni 500g;food and beverages;15
+162;Prego;Prego Buddies Space Dry Pasta 200g;food and beverages;12
+163;Prego;Prego Buddies Ocean Dry Pasta 200g;food and beverages;15.5
+164;Prego;Prego Buddies Animal Dry Pasta 200g;food and beverages;15.5
+165;Prego;SPICY SEAFOOD ARRABBIATA SPIRAL70G;food and beverages;15.5
+166;Prego;MAC & CHEESE70G;food and beverages;12
+167;Prego;MUSHROOM CARBONARA MAC71G;food and beverages;15
+168;Prego;PregoÃ‚Â® High-Fibre Spaghetti 500g;food and beverages;15.5
+169;Prego;PregoÃ‚Â® Buddies High-Fibre Teddy 200g;food and beverages;15
+170;Prego;PregoÃ‚Â® Buddies High-Fibre Dinosaur 200g;food and beverages;15
+171;Prego;PregoÃ‚Â® High-Fibre Tri-colour Spiral pasta 500g;food and beverages;15
+172;Mondelez;5 Star;snacks;3.5
+173;Mondelez;7Days;snacks;3
+174;Mondelez;Alpen Gold;snacks;3.5
+175;Mondelez;Barni;snacks;2.5
+176;Mondelez;belVita;snacks;3
+177;Mondelez;Bournvita;snacks;2.5
+178;Mondelez;Cadbury;snacks;2.5
+179;Mondelez;Cadbury Dairy Milk;snacks;3
+180;Mondelez;Chips Ahoy!;snacks;3
+181;Mondelez;Clorets;snacks;3
+182;Mondelez;Club Social;snacks;2.5
+183;Mondelez;CÃƒÂ´te d'Or;snacks;2.5
+184;Mondelez;Daim;snacks;3.5
+185;Mondelez;Enjoy Life Foods;snacks;2.5
+186;Mondelez;Freia;snacks;3
+187;Mondelez;Grenade;snacks;3.5
+188;Mondelez;Halls;snacks;2.5
+189;Mondelez;Honey Maid;snacks;2.5
+190;Mondelez;Hu;snacks;2.5
+191;Mondelez;Kinh Do;snacks;3.5
+192;Mondelez;Lacta;snacks;3
+193;Mondelez;LU;snacks;3.5
+194;Mondelez;Marabou;snacks;2.5
+195;Mondelez;Maynards Bassett's;snacks;2.5
+196;Mondelez;Milka;snacks;3
+197;Mondelez;Oreo;snacks;3.5
+198;Mondelez;Perfect Snacks;snacks;3.5
+199;Mondelez;Philadelphia;snacks;2.5
+200;Mondelez;Prince;snacks;3.5
+201;Mondelez;Ritz;snacks;2.5
+202;Mondelez;Royal;snacks;3.5
+203;Mondelez;Sour Patch Kids;snacks;2.5
+204;Mondelez;Stride;snacks;3.5
+205;Mondelez;Tang;snacks;3
+206;Mondelez;Tate's Bake Shop;snacks;3
+207;Mondelez;Tiger;snacks;3
+208;Mondelez;Toblerone;snacks;3.5
+209;Mondelez;Trident;snacks;3
+210;Mondelez;Triscuit;snacks;2.5
+211;Mondelez;TUC;snacks;3.5
+212;Mondelez;Wheat Thins;snacks;2.5
+213;Hershey;Almond Joy;snacks;3.5
+214;Hershey;Cadbury Dairy Milk;snacks;2.5
+215;Hershey;Dagoba Organic Chocolate;snacks;2.5
+216;Hershey;Dream;snacks;2.5
+217;Hershey;white chocolate;snacks;2.5
+218;Hershey;5th Avenue;snacks;3.5
+219;Hershey;Heath bar;snacks;3
+220;Hershey;Hershey bar;snacks;2.5
+221;Hershey;Hershey's Drops;snacks;3.5
+222;Hershey;Hershey's Extra Dark;snacks;2.5
+223;Hershey;Hershey's Kisses;snacks;3.5
+224;Hershey;Hershey's Kisses Special Selection;snacks;2.5
+225;Hershey;Hershey's Miniatures;snacks;2.5
+226;Hershey;Hershey's Special Dark;snacks;2.5
+227;Hershey;Oh Henry!;snacks;2.5
+228;Hershey;Kit Kat;snacks;3
+229;Hershey;Krackel;snacks;2.5
+230;Hershey;Military chocolate;snacks;3.5
+231;Hershey;Mounds;snacks;3.5
+232;Hershey;Mr. Goodbar;snacks;2.5
+233;Hershey;Nutrageous;snacks;3
+234;Hershey;Reese's Fast Break;snacks;3.5
+235;Hershey;Reese's Peanut Butter Cups;snacks;3
+236;Hershey;Reese's Sticks;snacks;2.5
+237;Hershey;Reese's Take 5;snacks;3
+238;Hershey;Scharffen Berger Chocolate Maker;snacks;3
+239;Hershey;Skor;snacks;3
+240;Hershey;Snack Barz;snacks;2.5
+241;Hershey;Symphony;snacks;2.5
+242;Hershey;Whatchamacallit;snacks;2.5
+243;Hershey;Zero bar;snacks;2.5
+244;Hershey;Cadbury Creme Egg;snacks;3
+245;Hershey;Cherry Blossom;snacks;2.5
+246;Hershey;Hershey's Kissables;snacks;2.5
+247;Hershey;Milk Duds;snacks;2.5
+248;Hershey;Rolo;snacks;2.5
+249;Hershey;Swoops;snacks;2.5
+250;Hershey;York Peppermint Pattie;snacks;3
+251;Hershey;Whoppers;snacks;3
+252;Hershey;Breath Savers;snacks;3
+253;Hershey;Bubble Yum;snacks;3
+254;Hershey;Good & Fruity;snacks;3
+255;Hershey;Good & Plenty;snacks;3
+256;Hershey;Jolly Rancher;snacks;2.5
+257;Hershey;Lancaster Soft CrÃƒÂ¨mes;snacks;3.5
+258;Hershey;PayDay;snacks;3
+259;Hershey;Pelon Pelo Rico;snacks;3.5
+260;Hershey;Reese's Pieces;snacks;3
+261;Hershey;SkinnyPop;snacks;3
+262;Hershey;Twizzlers;snacks;2.5
+263;Hershey;Zagnut;snacks;3
+264;Arla;ApetinaÃ‚Â®Ã‚Â ;dairy;8
+265;Arla;LurpakÃ‚Â ;dairy;6.5
+266;Arla;Arla &MoreÃ‚Â ;dairy;8.5
+267;Arla;CastelloÃ‚Â®Ã‚Â ;dairy;9
+268;Arla;Arla Cream CheeseÃ‚Â ;dairy;6.5
+269;Arla;Arla BukoÃ‚Â ;dairy;8
+270;Arla;Arla CheasyÃ‚Â®Ã‚Â ;dairy;7.5
+271;Arla;Arla CheeseÃ‚Â ;dairy;9
+272;Arla;Arla DanoÃ‚Â®Ã‚Â ;dairy;8.5
+273;Arla;Arla KoÃ‚Â ;dairy;8.5
+274;Arla;Arla KÃƒÂ¶ketÃ‚Â ;dairy;9
+275;Arla;Arla NaturaÃ‚Â ;dairy;8.5
+276;Arla;Arla ProteinÃ‚Â ;dairy;7
+277;Arla;Arla YoggiÃ‚Â ;dairy;7.5
+278;Arla;AnchorÃ‚Â ;dairy;8
+279;Arla;BregottÃ‚Â®Ã‚Â ;dairy;8
+280;Arla;CocioÃ‚Â®Ã‚Â ;dairy;8
+281;Arla;Karolines KÃƒÂ¸kkenÃ‚Â ;dairy;6.5
+282;Arla;KeldaÃ‚Â ;dairy;6.5
+283;Arla;KesoÃ‚Â®Ã‚Â ;dairy;6.5
+284;Arla;LÃƒÂ¤tt och LagomÃ‚Â ;dairy;8
+285;Arla;MilexÃ‚Â ;dairy;7.5
+286;Arla;PuckÃ‚Â ;dairy;7.5
+287;Arla;TrestelleÃ‚Â ;dairy;7
+288;Arla;Arla Baby&MeÃ‚Â® OrganicÃ‚Â ;dairy;8.5
+289;Pepsi;AMP ENERGYÃ‚Â®;food and beverages;1.5
+290;Pepsi;AQUAFINAÃ‚Â®;food and beverages;1.5
+291;Pepsi;BRISKÃ‚Â®;food and beverages;1.5
+292;Pepsi;BUBLYÃ¢â€žÂ¢;food and beverages;2
+293;Pepsi;GATORADEÃ‚Â®;food and beverages;1.7
+294;Pepsi;LIFEWTRÃ¢â€žÂ¢;food and beverages;1.5
+295;Pepsi;LIPTONÃ‚Â®;food and beverages;2.5
+296;Pepsi;MANZANITA SOLÃ‚Â®;food and beverages;1.7
+297;Pepsi;MTN DEWÃ‚Â®;food and beverages;1.5
+298;Pepsi;MUGÃ‚Â® ROOT BEER;food and beverages;1.7
+299;Pepsi;MUSCLE MILKÃ‚Â®;food and beverages;1.7
+300;Pepsi;PEPSIÃ‚Â®;food and beverages;1.7
+301;Pepsi;PROPELÃ‚Â®;food and beverages;1.7
+302;Pepsi;PURE LEAFÃ‚Â®;food and beverages;2.5
+303;Pepsi;ROCKSTAR ENERGYÃ‚Â®;food and beverages;1.7
+304;Pepsi;SOBEÃ‚Â®;food and beverages;2
+305;Pepsi;STARBUCKSÃ‚Â®;food and beverages;1.7
+306;Pepsi;STUBBORN SODAÃ¢â€žÂ¢;food and beverages;2.5
+307;Pepsi;BUNDABERG;food and beverages;1.5
+308;Pepsi;CITRUSÃ‚Â® SPRINGS;food and beverages;2
+309;Pepsi;CRUSHÃ‚Â®;food and beverages;1.7
+310;Pepsi;DR PEPPERÃ‚Â®;food and beverages;1.7
+311;Pepsi;FRUIT SHOOTÃ‚Â®;food and beverages;1.7
+312;Pepsi;KEVITA;food and beverages;2.5
+313;Pepsi;NAKED JUICEÃ‚Â®;food and beverages;2
+314;Pepsi;OCEAN SPRAYÃ‚Â®;food and beverages;1.7
+315;Pepsi;SCHWEPPESÃ‚Â®;food and beverages;2.5
+316;Pepsi;TROPICANAÃ‚Â®;food and beverages;1.5
+317;Pepsi;VOSS;food and beverages;2
+318;Pepsi;YACHAK;food and beverages;1.5
+319;Johnson & Johnson;Aveeno;health;3.7
+320;Johnson & Johnson;Dabao;health;3.7
+321;Johnson & Johnson;DrCiLabo;health;3.7
+322;Johnson & Johnson;LePetitMarseillais;health;4.2
+323;Johnson & Johnson;Neutrogena;health;3.7
+324;Johnson & Johnson;NeoStrata0;health;3.7
+325;Johnson & Johnson;OGX;health;3
+326;Johnson & Johnson;BeBeYoungCare;health;5
+327;Johnson & Johnson;CleanClear;health;4.2
+328;Johnson & Johnson;Exuviance;health;5
+329;Johnson & Johnson;LaboLabo;health;5
+330;Johnson & Johnson;Lubriderm;health;3
+331;Johnson & Johnson;PizBuin;health;3.5
+332;Johnson & Johnson;Regaine;health;3.5
+333;Johnson & Johnson;Rogaine;health;3
+334;Johnson & Johnson;Sundown0;health;3.5
+335;Johnson & Johnson;Tylenol;health;4.2
+336;Johnson & Johnson;Benadryl;health;3
+337;Johnson & Johnson;Zyrtec;health;4.2
+338;Johnson & Johnson;Motrin;health;3.7
+339;Johnson & Johnson;Nicorette;health;3.5
+340;Johnson & Johnson;Zarbees;health;3.7
+341;Johnson & Johnson;Calpol;health;3.5
+342;Johnson & Johnson;Codral;health;3
+343;Johnson & Johnson;DoktorMom;health;5
+344;Johnson & Johnson;Dolormin;health;4.2
+345;Johnson & Johnson;Frenadol;health;3
+346;Johnson & Johnson;Imodium0;health;4.2
+347;Johnson & Johnson;ORSL;health;3
+348;Johnson & Johnson;Pepcid;health;4.2
+349;Johnson & Johnson;Sudafed;health;3
+350;Johnson & Johnson;Visine;health;3.5
+351;Johnson & Johnson;JohnsonsBaby;health;3
+352;Johnson & Johnson;Listerine;health;3
+353;Johnson & Johnson;Stayfree;health;3.7
+354;Johnson & Johnson;Carefree;health;3.5
+355;Johnson & Johnson;BANDAID;health;3
+356;Johnson & Johnson;Neosporin;health;3.5
+357;Johnson & Johnson;AveenoBaby;health;3
+358;Johnson & Johnson;Desitin;health;4.2
+359;Johnson & Johnson;Polysporin0;health;4.2
+360;Johnson & Johnson;Penaten;health;3.7
+361;Colgate;Pinho Sol;health;5
+362;Colgate;Fabuloso;health;3.5
+363;Colgate;Tahiti ;health;3.7
+364;Colgate;Sorriso;health;4.2
+365;Colgate;Irish Spring;health;4.2
+366;Colgate;Suavitel;health;3.5
+367;Colgate;Speed Stick;health;3.7
+368;Colgate;Sta-soft;health;3.7
+369;Colgate;Sanex;health;3
+370;Colgate;Protex;health;3.5
+371;Colgate;Lady Speed Stick;health;4.2
+372;Colgate;Softlan;health;3.7
+373;Colgate;elmex;health;3
+374;Colgate;Ajax;health;3
+375;Colgate;Softsoap;health;5
+376;Colgate;Hill's Pet Nutrition;health;3.5
+377;Colgate;Colgate;health;3
+378;Colgate;Cuddly;health;3.7
+379;Colgate;Fluffy ;health;3
+380;Colgate;Soupline;health;5
+381;Colgate;Danklorix ;health;5
+382;Colgate;Fleecy;health;3
+383;Colgate;meridol;health;3
+384;Colgate;Axion;health;5
+385;Colgate;Filorga;health;3
+386;Colgate;hello;health;3.7
+387;Colgate;Murphy Oil Soap;health;4.2
+388;Colgate;Tom's of Maine;health;3
+389;Colgate;Palmolive;health;5
+390;Colgate;PCA SKIN ;health;3.7
+391;none;Apples;fruit and vegetable;1.5
+392;none;Apricots;fruit and vegetable;2.2
+393;none;Avocados;fruit and vegetable;1.8
+394;none;Blackberries;fruit and vegetable;2.2
+395;none;Blueberries;fruit and vegetable;3.5
+396;none;Star Fruit;fruit and vegetable;1.5
+397;none;Cherimoyas;fruit and vegetable;1.5
+398;none;Cherries;fruit and vegetable;3.5
+399;none;Cherries: Maraschino;fruit and vegetable;3
+400;none;Cranberries;fruit and vegetable;3.5
+401;none;Dates;fruit and vegetable;3
+402;none;Citrus;fruit and vegetable;3
+403;none;Cocktail;fruit and vegetable;1.8
+404;none;Grapefruit;fruit and vegetable;3
+405;none;Grapes;fruit and vegetable;3.5
+406;none;Huckleberries;fruit and vegetable;1.8
+407;none;Kiwi Fruit;fruit and vegetable;1.8
+408;none;Kumquats;fruit and vegetable;1.8
+409;none;Lemons;fruit and vegetable;3.5
+410;none;Limes;fruit and vegetable;2.2
+411;none;Lychees;fruit and vegetable;1.5
+412;none;Mandarins;fruit and vegetable;2.2
+413;none;Mangos;fruit and vegetable;3.5
+414;none;Muscanides;fruit and vegetable;3.5
+415;none;Nectarines;fruit and vegetable;1.5
+416;none;Oranges;fruit and vegetable;3
+417;none;Papaya;fruit and vegetable;3
+418;none;Passion Fruit;fruit and vegetable;1.8
+419;none;Peaches;fruit and vegetable;1.8
+420;none;Pears;fruit and vegetable;1.5
+421;none;Plums;fruit and vegetable;1.8
+422;none;Raisins;fruit and vegetable;3
+423;none;Raspberries;fruit and vegetable;1.5
+424;none;Strawberries;fruit and vegetable;1.8
+425;none;Tangelos;fruit and vegetable;1.5
+426;none;Tangerines;fruit and vegetable;1.8
+427;none;Alfalfa Sprouts;fruit and vegetable;3
+428;none;Asparagus;fruit and vegetable;3
+429;none;Beans;fruit and vegetable;1.8
+430;none;Beans: Dry;fruit and vegetable;1.8
+431;none;Beets;fruit and vegetable;2.2
+432;none;Black-eyed Peas;fruit and vegetable;1.8
+433;none;Cabbage;fruit and vegetable;3.5
+434;none;Carrots;fruit and vegetable;3
+435;none;Cauliflower;fruit and vegetable;1.8
+436;none;Celery;fruit and vegetable;2.2
+437;none;Corn;fruit and vegetable;1.5
+438;none;Corn Products;fruit and vegetable;3
+439;none;Garlic;fruit and vegetable;3.5
+440;none;Leeks;fruit and vegetable;2.2
+441;none;Lettuce;fruit and vegetable;3.5
+442;none;Mushrooms;fruit and vegetable;3.5
+443;none;Okra;fruit and vegetable;1.8
+444;none;Olives;fruit and vegetable;3
+445;none;Onions;fruit and vegetable;3.5
+446;none;Parsley;fruit and vegetable;1.5
+447;none;Peas;fruit and vegetable;1.5
+448;none;Peppers;fruit and vegetable;1.8
+449;none;Pickles;fruit and vegetable;2.2
+450;none;Potato;fruit and vegetable;1.5
+451;none;Prunes;fruit and vegetable;3
+452;none;Radishes;fruit and vegetable;3
+453;none;Salad & Salad Mixes;fruit and vegetable;1.8
+454;none;Shallots;fruit and vegetable;3
+455;none;Spinach;fruit and vegetable;1.8
+456;none;Squash;fruit and vegetable;3
+457;none;Tomatoes;fruit and vegetable;1.8
+458;none;Yams;fruit and vegetable;1.5
+459;none;Zucchini Sticks;fruit and vegetable;3.5
